@@ -16,14 +16,33 @@
       <config projectName="Software" targetName="Z_DUMMY_TARGET" />
     </generated>
   </component>
-  <component name="CMakeSettings">
+  <component name="CMakeSettings" AUTO_RELOAD="true">
     <configurations>
       <configuration PROFILE_NAME="genericSTM32F405RG" ENABLED="true" CONFIG_NAME="genericSTM32F405RG" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7fe052fe-4d63-4ad0-b279-c6de6f800032" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/CMakeListsPrivate.txt" afterDir="false" />
+    <list default="true" id="7fe052fe-4d63-4ad0-b279-c6de6f800032" name="变更" comment="Init Files">
+      <change beforePath="$PROJECT_DIR$/../Hardware/FOC_Power-backups/FOC_Power-2022-12-31_105651.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardware/FOC_Power-backups/FOC_Power-2022-12-31_114840.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardware/FOC_Power.kicad_sch" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardware/FOC_Power.kicad_sch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mxproject" beforeDir="false" afterPath="$PROJECT_DIR$/.mxproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeListsPrivate.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeListsPrivate.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Software.ioc" beforeDir="false" afterPath="$PROJECT_DIR$/Software.ioc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-genericstm32f405rg/.cmake/api/v1/reply/cache-v2-228e3aa39e40475c5c6a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-genericstm32f405rg/.cmake/api/v1/reply/cmakeFiles-v1-3c1333ff326404059815.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-genericstm32f405rg/.cmake/api/v1/reply/codemodel-v2-3b748d4d8a056a7042af.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-genericstm32f405rg/.cmake/api/v1/reply/index-2022-12-31T04-21-35-0408.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-genericstm32f405rg/.cmake/api/v1/reply/target-Z_DUMMY_TARGET-genericSTM32F405RG-8ae60aaee3399c1cd388.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-genericstm32f405rg/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-genericstm32f405rg/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-genericstm32f405rg/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-genericstm32f405rg/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-genericstm32f405rg/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-genericstm32f405rg/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-genericstm32f405rg/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-genericstm32f405rg/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-genericstm32f405rg/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-genericstm32f405rg/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,8 +120,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672460483632</updated>
-      <workItem from="1672460485008" duration="836000" />
+      <workItem from="1672460485008" duration="2880000" />
     </task>
+    <task id="LOCAL-00001" summary="Init Files">
+      <created>1672479073194</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672479073194</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,5 +145,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init Files" />
   </component>
 </project>
