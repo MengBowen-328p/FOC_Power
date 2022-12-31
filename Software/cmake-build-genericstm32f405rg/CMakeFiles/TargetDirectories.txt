@@ -1,0 +1,5 @@
+D:/FOC_Power/Software/cmake-build-genericstm32f405rg/CMakeFiles/Production.dir
+D:/FOC_Power/Software/cmake-build-genericstm32f405rg/CMakeFiles/Debug.dir
+D:/FOC_Power/Software/cmake-build-genericstm32f405rg/CMakeFiles/Z_DUMMY_TARGET.dir
+D:/FOC_Power/Software/cmake-build-genericstm32f405rg/CMakeFiles/edit_cache.dir
+D:/FOC_Power/Software/cmake-build-genericstm32f405rg/CMakeFiles/rebuild_cache.dir
