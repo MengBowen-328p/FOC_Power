@@ -1,0 +1,1301 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "Z_DUMMY_TARGET"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"add_definitions",
+			"include",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt",
+			"CMakeListsPrivate.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 33,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"file" : 1,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 28,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 24,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 25,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 26,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 27,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 30,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 31,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 32,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 33,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 34,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 35,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 36,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 37,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 38,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 39,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 40,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 41,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 42,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 43,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 44,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 45,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 46,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 47,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 48,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 49,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 50,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 51,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 52,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 53,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 54,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 55,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 56,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 57,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 58,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 59,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 60,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 61,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 62,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 63,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 64,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 65,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 66,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 67,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 68,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 69,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 70,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 71,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 72,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 73,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 74,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 75,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 76,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 77,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 78,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 79,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 80,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 81,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 82,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 83,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 84,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 85,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 86,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 87,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 88,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 89,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 90,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 91,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 92,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 93,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 94,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 95,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 96,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 97,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 98,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 99,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 100,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 101,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 102,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 103,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 104,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 105,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 106,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 107,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 108,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 109,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 110,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 111,
+				"parent" : 3
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-Os -ffunction-sections -fdata-sections -Wall -mthumb -mcpu=cortex-m4 -nostdlib"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 4,
+					"define" : "F_CPU=168000000L"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "PLATFORMIO=60105"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "STM32F405xx"
+				},
+				{
+					"backtrace" : 7,
+					"define" : "STM32F4xx"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "USE_HAL_DRIVER"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 9,
+					"path" : "D:/FOC_Power/Software/Inc"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "D:/FOC_Power/Software/src"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "D:/FOC_Power/Software/lib/FreeRTOS"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/CMSIS/Include"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/CMSIS/Device/ST/STM32F4xx/Include"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/STM32F4xx_HAL_Driver/Inc"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/STM32F4xx_HAL_Driver/Src"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/CMSIS/DSP/Include"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/BSP/Components/ampire480272"
+				},
+				{
+					"backtrace" : 18,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/BSP/Components/ampire640480"
+				},
+				{
+					"backtrace" : 19,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/BSP/Components/Common"
+				},
+				{
+					"backtrace" : 20,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/BSP/Components/cs43l22"
+				},
+				{
+					"backtrace" : 21,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/BSP/Components/exc7200"
+				},
+				{
+					"backtrace" : 22,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/BSP/Components/ft6x06"
+				},
+				{
+					"backtrace" : 23,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/BSP/Components/i3g4250d"
+				},
+				{
+					"backtrace" : 24,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/BSP/Components/ili9325"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/BSP/Components/ili9341"
+				},
+				{
+					"backtrace" : 26,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/BSP/Components/l3gd20"
+				},
+				{
+					"backtrace" : 27,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/BSP/Components/lis302dl"
+				},
+				{
+					"backtrace" : 28,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/BSP/Components/lis3dsh"
+				},
+				{
+					"backtrace" : 29,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/BSP/Components/ls016b8uy"
+				},
+				{
+					"backtrace" : 30,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/BSP/Components/lsm303agr"
+				},
+				{
+					"backtrace" : 31,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/BSP/Components/lsm303dlhc"
+				},
+				{
+					"backtrace" : 32,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/BSP/Components/mfxstm32l152"
+				},
+				{
+					"backtrace" : 33,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/BSP/Components/n25q128a"
+				},
+				{
+					"backtrace" : 34,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/BSP/Components/n25q256a"
+				},
+				{
+					"backtrace" : 35,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/BSP/Components/n25q512a"
+				},
+				{
+					"backtrace" : 36,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/BSP/Components/nt35510"
+				},
+				{
+					"backtrace" : 37,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/BSP/Components/otm8009a"
+				},
+				{
+					"backtrace" : 38,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/BSP/Components/ov2640"
+				},
+				{
+					"backtrace" : 39,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/BSP/Components/ov5640"
+				},
+				{
+					"backtrace" : 40,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/BSP/Components/s25fl512s"
+				},
+				{
+					"backtrace" : 41,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/BSP/Components/s5k5cag"
+				},
+				{
+					"backtrace" : 42,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/BSP/Components/st7735"
+				},
+				{
+					"backtrace" : 43,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/BSP/Components/st7789h2"
+				},
+				{
+					"backtrace" : 44,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/BSP/Components/stmpe1600"
+				},
+				{
+					"backtrace" : 45,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/BSP/Components/stmpe811"
+				},
+				{
+					"backtrace" : 46,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/BSP/Components/ts3510"
+				},
+				{
+					"backtrace" : 47,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/BSP/Components/wm8994"
+				},
+				{
+					"backtrace" : 48,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Drivers/BSP/Adafruit_Shield"
+				},
+				{
+					"backtrace" : 49,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Utilities/CPU"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Utilities/Fonts"
+				},
+				{
+					"backtrace" : 51,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Utilities/Log"
+				},
+				{
+					"backtrace" : 52,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Middlewares/ST/STM32_USB_Device_Library/Core/Inc"
+				},
+				{
+					"backtrace" : 53,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Middlewares/ST/STM32_USB_Device_Library/Core/Src"
+				},
+				{
+					"backtrace" : 54,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Inc"
+				},
+				{
+					"backtrace" : 55,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src"
+				},
+				{
+					"backtrace" : 56,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Middlewares/ST/STM32_USB_Device_Library/Class/BillBoard/Inc"
+				},
+				{
+					"backtrace" : 57,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Middlewares/ST/STM32_USB_Device_Library/Class/BillBoard/Src"
+				},
+				{
+					"backtrace" : 58,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src"
+				},
+				{
+					"backtrace" : 60,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Middlewares/ST/STM32_USB_Device_Library/Class/CDC_ECM/Inc"
+				},
+				{
+					"backtrace" : 61,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Middlewares/ST/STM32_USB_Device_Library/Class/CDC_ECM/Src"
+				},
+				{
+					"backtrace" : 62,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Middlewares/ST/STM32_USB_Device_Library/Class/CDC_RNDIS/Inc"
+				},
+				{
+					"backtrace" : 63,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Middlewares/ST/STM32_USB_Device_Library/Class/CDC_RNDIS/Src"
+				},
+				{
+					"backtrace" : 64,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Middlewares/ST/STM32_USB_Device_Library/Class/CustomHID/Inc"
+				},
+				{
+					"backtrace" : 65,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Middlewares/ST/STM32_USB_Device_Library/Class/CustomHID/Src"
+				},
+				{
+					"backtrace" : 66,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Inc"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src"
+				},
+				{
+					"backtrace" : 68,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Middlewares/ST/STM32_USB_Device_Library/Class/HID/Inc"
+				},
+				{
+					"backtrace" : 69,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Middlewares/ST/STM32_USB_Device_Library/Class/HID/Src"
+				},
+				{
+					"backtrace" : 70,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Middlewares/ST/STM32_USB_Device_Library/Class/MSC/Inc"
+				},
+				{
+					"backtrace" : 71,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Middlewares/ST/STM32_USB_Device_Library/Class/MSC/Src"
+				},
+				{
+					"backtrace" : 72,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Middlewares/ST/STM32_USB_Device_Library/Class/VIDEO/Inc"
+				},
+				{
+					"backtrace" : 73,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Middlewares/ST/STM32_USB_Device_Library/Class/VIDEO/Src"
+				},
+				{
+					"backtrace" : 74,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Middlewares/ST/STM32_USB_Host_Library/Core/Inc"
+				},
+				{
+					"backtrace" : 75,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Middlewares/ST/STM32_USB_Host_Library/Core/Src"
+				},
+				{
+					"backtrace" : 76,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Middlewares/ST/STM32_USB_Host_Library/Class/AUDIO/Inc"
+				},
+				{
+					"backtrace" : 77,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Middlewares/ST/STM32_USB_Host_Library/Class/AUDIO/Src"
+				},
+				{
+					"backtrace" : 78,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Middlewares/ST/STM32_USB_Host_Library/Class/CDC/Inc"
+				},
+				{
+					"backtrace" : 79,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Middlewares/ST/STM32_USB_Host_Library/Class/CDC/Src"
+				},
+				{
+					"backtrace" : 80,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc"
+				},
+				{
+					"backtrace" : 81,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src"
+				},
+				{
+					"backtrace" : 82,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Middlewares/ST/STM32_USB_Host_Library/Class/MSC/Inc"
+				},
+				{
+					"backtrace" : 83,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Middlewares/ST/STM32_USB_Host_Library/Class/MSC/Src"
+				},
+				{
+					"backtrace" : 84,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Middlewares/ST/STM32_USB_Host_Library/Class/MTP/Inc"
+				},
+				{
+					"backtrace" : 85,
+					"path" : "C:/Users/15216/.platformio/packages/framework-stm32cubef4/Middlewares/ST/STM32_USB_Host_Library/Class/MTP/Src"
+				},
+				{
+					"backtrace" : 86,
+					"path" : "C:/Users/15216/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/arm-none-eabi/include/c++/7.2.1"
+				},
+				{
+					"backtrace" : 87,
+					"path" : "C:/Users/15216/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/arm-none-eabi/include/c++/7.2.1/arm-none-eabi"
+				},
+				{
+					"backtrace" : 88,
+					"path" : "C:/Users/15216/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/lib/gcc/arm-none-eabi/7.2.1/include"
+				},
+				{
+					"backtrace" : 89,
+					"path" : "C:/Users/15216/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/lib/gcc/arm-none-eabi/7.2.1/include-fixed"
+				},
+				{
+					"backtrace" : 90,
+					"path" : "C:/Users/15216/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/arm-none-eabi/include"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				4,
+				6,
+				9,
+				13,
+				14,
+				19,
+				23,
+				27,
+				30,
+				31,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45
+			]
+		}
+	],
+	"id" : "Z_DUMMY_TARGET::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-Os -ffunction-sections -fdata-sections -Wall -mthumb -mcpu=cortex-m4 -nostdlib",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			}
+		],
+		"language" : "C"
+	},
+	"name" : "Z_DUMMY_TARGET",
+	"nameOnDisk" : "Z_DUMMY_TARGET",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				5,
+				7,
+				8,
+				10,
+				11,
+				12,
+				15,
+				16,
+				17,
+				18,
+				20,
+				21,
+				22,
+				24,
+				25,
+				26,
+				28,
+				29,
+				32
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				4,
+				6,
+				9,
+				13,
+				14,
+				19,
+				23,
+				27,
+				30,
+				31,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"path" : "lib/FreeRTOS/FreeRTOS.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/FreeRTOS/StackMacros.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/FreeRTOS/atomic.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/FreeRTOS/cmsis_os.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/FreeRTOS/cmsis_os2.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/FreeRTOS/cmsis_os2.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/FreeRTOS/croutine.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/FreeRTOS/croutine.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/FreeRTOS/deprecated_definitions.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/FreeRTOS/event_groups.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/FreeRTOS/event_groups.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/FreeRTOS/freertos_mpool.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/FreeRTOS/freertos_os2.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/FreeRTOS/heap_4.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/FreeRTOS/list.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/FreeRTOS/list.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/FreeRTOS/message_buffer.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/FreeRTOS/mpu_prototypes.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/FreeRTOS/mpu_wrappers.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/FreeRTOS/port.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/FreeRTOS/portable.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/FreeRTOS/portmacro.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/FreeRTOS/projdefs.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/FreeRTOS/queue.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/FreeRTOS/queue.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/FreeRTOS/semphr.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/FreeRTOS/stack_macros.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/FreeRTOS/stream_buffer.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/FreeRTOS/stream_buffer.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/FreeRTOS/task.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/FreeRTOS/tasks.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/FreeRTOS/timers.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/FreeRTOS/timers.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/adc.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/can.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/freertos.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/gpio.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/i2c.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/main.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/spi.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/stm32f4xx_hal_msp.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/stm32f4xx_hal_timebase_tim.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/stm32f4xx_it.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/system_stm32f4xx.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/tim.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/usart.c",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "EXECUTABLE"
+}
