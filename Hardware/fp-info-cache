@@ -1,4 +1,4 @@
-20121622645622137
+20131659265102715
 Audio_Module
 Cine
 
@@ -6499,6 +6499,20 @@ Connector_AMASS
 AMASS_XT60-M_1x02_P7.20mm_Vertical
 AMASS female XT60, through hole, vertical, https://www.tme.eu/Document/2d152ced3b7a446066e6c419d84bb460/XT60%20SPEC.pdf
 XT60 female vertical
+0
+2
+2
+Connector_AMASS
+MR30_SMD
+
+
+0
+3
+3
+Connector_AMASS
+XT30_SMD
+
+
 0
 2
 2
@@ -84721,12 +84735,40 @@ DRV8323HRTAR
 53
 42
 Userlib
+Hole
+
+
+0
+1
+1
+Userlib
 IRF7480MTRPBF
 
 
 0
 10
 10
+Userlib
+OLED-12880
+
+
+0
+13
+13
+Userlib
+SMB_L4.3-W3.6-LS5.4-BI
+
+
+0
+2
+2
+Userlib
+SMB_L4.6-W3.6-LS5.3-R-RD
+
+
+0
+2
+2
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
